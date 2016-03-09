@@ -1,0 +1,2 @@
+# Struts
+Java Project
